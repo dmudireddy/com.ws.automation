@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-24T23:42:27 EDT" name="Suite" finished-at="2024-03-24T23:43:33 EDT" duration-ms="65959">
+    <groups>
+    </groups>
+    <test started-at="2024-03-24T23:42:27 EDT" name="Test" finished-at="2024-03-24T23:43:33 EDT" duration-ms="65959">
+      <class name="com.ws.testcase.TestLoginPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:27 EDT" name="setUp" finished-at="2024-03-24T23:42:31 EDT" duration-ms="4286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="initApplication()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:31 EDT" name="initApplication" finished-at="2024-03-24T23:42:35 EDT" duration-ms="3979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:35 EDT" name="tearDown" finished-at="2024-03-24T23:42:40 EDT" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:40 EDT" name="setUp" finished-at="2024-03-24T23:42:43 EDT" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPageTitle()[pri:1, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:43 EDT" name="testLoginPageTitle" finished-at="2024-03-24T23:42:43 EDT" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:43 EDT" name="tearDown" finished-at="2024-03-24T23:42:48 EDT" duration-ms="4163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:48 EDT" name="setUp" finished-at="2024-03-24T23:42:52 EDT" duration-ms="3886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginFunction()[pri:2, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:52 EDT" name="testLoginFunction" finished-at="2024-03-24T23:42:54 EDT" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:54 EDT" name="tearDown" finished-at="2024-03-24T23:42:58 EDT" duration-ms="4138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:42:58 EDT" name="setUp" finished-at="2024-03-24T23:43:01 EDT" duration-ms="3610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testForgotPasswordIsDisplayed()[pri:3, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:01 EDT" name="testForgotPasswordIsDisplayed" finished-at="2024-03-24T23:43:02 EDT" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordIsDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:02 EDT" name="tearDown" finished-at="2024-03-24T23:43:06 EDT" duration-ms="4147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:06 EDT" name="setUp" finished-at="2024-03-24T23:43:10 EDT" duration-ms="3729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testIsPasswordRecoverypageDisplayed()[pri:4, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:10 EDT" name="testIsPasswordRecoverypageDisplayed" finished-at="2024-03-24T23:43:11 EDT" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsPasswordRecoverypageDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:11 EDT" name="tearDown" finished-at="2024-03-24T23:43:15 EDT" duration-ms="4168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:15 EDT" name="setUp" finished-at="2024-03-24T23:43:19 EDT" duration-ms="3770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEnterActualEmail()[pri:5, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:19 EDT" name="testEnterActualEmail" finished-at="2024-03-24T23:43:20 EDT" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterActualEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:20 EDT" name="tearDown" finished-at="2024-03-24T23:43:24 EDT" duration-ms="4135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:24 EDT" name="setUp" finished-at="2024-03-24T23:43:28 EDT" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEnterWrongEmail()[pri:6, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:28 EDT" name="testEnterWrongEmail" finished-at="2024-03-24T23:43:29 EDT" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterWrongEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ws.testcase.TestLoginPage@6fdbe764]" started-at="2024-03-24T23:43:29 EDT" name="tearDown" finished-at="2024-03-24T23:43:33 EDT" duration-ms="4167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ws.testcase.TestLoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
