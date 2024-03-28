@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class DriverScript {
-
+//Driver script
 	public  static WebDriver driver;
 	static Properties prop;
 	public  DriverScript()
