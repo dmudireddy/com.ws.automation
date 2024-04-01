@@ -28,9 +28,14 @@ public boolean isTextDisplayed()
 {
 	return Passwordrecoverytext.isDisplayed();
 }
+public String getPasswordRecoveryText()
+{
+	return Passwordrecoverytext.getText();
+}
 
 public void EnterEmail(String email)
 {
+	Emailtextbox.clear();
 	Emailtextbox.sendKeys(email);
 
 }
@@ -48,6 +53,15 @@ public boolean isEmailInstrutionstextDisplayed()
 	return EmailInstructionstext.isDisplayed();
 }
 
+public String getWrongEmailMsg()
+{
+	return WrongEmailtext.getText();
+}
+
+public String getEmailSentMsg()
+{
+	return EmailInstructionstext.getText();
+}
 public boolean istextDisplayedWrongEmail()
 {
 	return WrongEmailtext.isDisplayed();
