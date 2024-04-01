@@ -24,7 +24,7 @@ public class PswdRecoveryPage extends DriverScript {
 		
 		//*************************Page Actions/Methods *********************//
 		
-public boolean isTextDisplayed()
+public boolean isPswdRecoveryTextDisplayed()
 {
 	return Passwordrecoverytext.isDisplayed();
 }
